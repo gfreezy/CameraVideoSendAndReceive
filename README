@@ -1,0 +1,8 @@
+通过UDP来传输摄像头数据。
+Phone程序为发送端
+PhoneRecv为接受端
+
+都在本地实验，摄像头采集格式为yuyv
+通过qt来现实
+
+联系邮箱:gfreezy@gmail.com
